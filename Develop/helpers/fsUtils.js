@@ -1,3 +1,5 @@
+// Purpose: This file contains the functions that will read and write to the db.json file.
+
 const fs = require('fs');
 const util = require('util');
 
