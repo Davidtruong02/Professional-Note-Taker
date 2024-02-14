@@ -1,10 +1,38 @@
-# 11 Express.js: Note Taker
+# Professional Note Taker
+
+## Table of Contents 
+-[Installation](#installation)
+-[Description](#description)
+-[Usage](#usage)
+-[Test](#test)
+-[Mock Up](#mock-up)
+-[License](#license)
+-[Questions](#questions)
+
+
+## Installation
+Steps to Install
+
+Download or clone the repository to your local desktop or laptop.
+Navigate to the correct directory where you saved the cloned repo.
+Run 'npm i or install' to install the required dependencies including uuid, express, etc..
+
 
 ## Description
 For this module's challenge we are given a starter code to work off of, this starter code assists us students to put what we've learned so far in the module and test how much knowledge we're able to retain and put it to work. We are to adjust the start code to where we're able to make the Note taker and bring it to life.
 
-## User Story
+## Usage
+To use the application, follow the step provided:
+Clone the repository.
+Install the required dependencies in your terminal.
+Run 'node server.js' in your terminal.
+Click on the link and test the application out!
 
+## Test 
+To test the application before using it, you may use use the application "Insomnia" and use the GET and PUT to test.
+
+
+## User Story
 ```
 AS A small business owner
 I WANT to be able to write and save notes
@@ -12,7 +40,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## Acceptance Criteria
-
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -30,7 +57,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Mock-Up
-
 The following GIF shows the web application's appearance and functionality:
 
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo.gif)
@@ -57,3 +83,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Questions
+If you have any questions, you can reach me on GitHub: https://github.com/Davidtruong02
+For additional questions, contact me via email: davidtruong134@gmail.com
