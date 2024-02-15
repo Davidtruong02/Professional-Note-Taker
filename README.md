@@ -1,13 +1,13 @@
 # Professional Note Taker
 
 ## Table of Contents 
--[Installation](#installation)
--[Description](#description)
--[Usage](#usage)
--[Test](#test)
--[Mock Up](#mock-up)
--[License](#license)
--[Questions](#questions)
+- [Installation](#installation)
+- [Description](#description)
+- [Usage](#usage)
+- [Test](#test)
+- [Mock Up](#mock-up)
+- [License](#license)
+- [Questions](#questions)
 
 
 ## Installation
