@@ -10,6 +10,7 @@ notes.get('/' , (req, res) => {
 
 
 
+
 notes.post('/', (req, res) => {
 
     const { title, text } = req.body;
