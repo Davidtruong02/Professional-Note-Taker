@@ -1,7 +1,7 @@
 // Purpose: To create the routes for the notes page
 // The notes.js file is a route that will be used to handle the notes page. It will be used to read and write notes to the db.json file
 const notes = require('express').Router();
-const { readFromFile, readAndAppend, writeToFile } = require('../Develop/helpers/fsUtils');
+const { readFromFile, readAndAppend, writeToFile } = require('../helpers/fsUtils');
 const {v4: uuidv4} = require('uuid');
 
 notes.get('/' , (req, res) => {
